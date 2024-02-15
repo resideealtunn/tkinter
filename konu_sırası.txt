@@ -1,0 +1,20 @@
+SQL
+create_table
+ınsert
+select
+update and delete
+
+TKİNTER
+window
+pack,grid,place
+frame
+label
+entry
+button
+message_box
+spinbox
+optionmenu
+radiobutton
+checkbox
+canvas
+menu
